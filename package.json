@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "build": "tsc",
+    "dev": "nodemon",
+    "board": "node board.js"
+  },
+  "dependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
